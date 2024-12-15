@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋
+
+I'm Peng Wang, a researcher in NLP, CV, and MM.
+
+NLPer / Android Development ([Google Play developer](https://play.google.com/store/apps/dev?id=7263696705955642036)) / Front-end Development / Back-end Development
+
+[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-WPNRl8AAAAJ&view_op=list_works&sortby=pubdate)] / [[ORCID](https://orcid.org/0000-0002-5374-8931)] / [[CV Website](https://wpengxs.cn/index.php/cv.html)]
 
 <!--
 **WPENGxs/WPENGxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
