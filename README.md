@@ -6,7 +6,7 @@ NLPer / Android Development ([Google Play developer](https://play.google.com/sto
 
 [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-WPNRl8AAAAJ&view_op=list_works&sortby=pubdate)] / [[DBLP](https://dblp.org/pid/95/4442-168)] / [[WOS](https://www.webofscience.com/wos/author/record/OIS-4257-2025)] / [[ORCID](https://orcid.org/0000-0002-5374-8931)] / [[Website](https://wpengxs.cn/index.php/cv.html)] / [[CV](https://wpengxs.github.io/)]
 
-I have a passion for 📖reading, 🎮gaming, 📺tv series, and 🥰anime, including insights into animation production. I also enjoy 🎵music and indulging in delicious food😋!
+I have a passion for 📖reading, 🎮gaming, 📺tv series, and 🥰anime. I also enjoy 🎵music and indulging in delicious food😋!
 
 <!--
 **WPENGxs/WPENGxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
